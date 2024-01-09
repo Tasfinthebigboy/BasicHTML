@@ -20,7 +20,7 @@ We encourage contributions! Have a tutorial, code snippet, or project idea? Cont
 
 ## Support
 
-Stuck on a problem or need guidance? Join our vibrant community on Discord [here](dsc.gg/tasfinthebigboy) to connect with fellow learners and mentors.
+Stuck on a problem or need guidance? Join our vibrant community on Discord [here](http://dsc.gg/theseedmc) to connect with fellow learners and mentors.
 
 ## About Us
 
